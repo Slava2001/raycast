@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(58,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(59,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(176,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(176,35): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(178,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(178,90): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(205,59): warning C4305: -=: усечение из "double" в "float"
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(206,60): warning C4305: +=: усечение из "double" в "float"
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(207,75): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(207,105): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(208,77): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(208,109): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(221,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(223,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(223,37): warning C4244:         with
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(223,37): warning C4244:         [
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(223,37): warning C4244:             T=float
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(223,37): warning C4244:         ]
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(227,40): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(227,36): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\slava\source\repos\M3dGE\M3dGE\main.cpp(227,32): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+  M3dGE.vcxproj -> C:\Users\slava\source\repos\M3dGE\Debug\M3dGE.exe
